@@ -19,3 +19,5 @@ dependencies:
   - h5netcdf
   - pip:
     - pyleoclim
+  - mystmd
+  
