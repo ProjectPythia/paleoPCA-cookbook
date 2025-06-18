@@ -5,7 +5,7 @@ dependencies:
   - python<3.12
   - jupyter-book
   - jupyterlab
-  - sphinx-pythia-theme
+  - jupyterlab-mystmd
   - pip
   - pandas
   - xarray

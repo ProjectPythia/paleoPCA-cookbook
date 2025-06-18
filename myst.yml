@@ -1,7 +1,7 @@
 # See docs at: https://mystmd.org/guide/frontmatter
 version: 1
 extends:
-  - https://raw.githubusercontent.com/projectpythia-mystmd/pythia-config/main/pythia.yml
+  - https://raw.githubusercontent.com/projectpythia/pythia-config/main/pythia.yml
 project:
   title: Paleo PCA Cookbook
   authors:
@@ -25,9 +25,8 @@ project:
         - file: notebooks/paleoPCA.ipynb
   jupyter:
       binder:
-        repo: projectpythia-mystmd/paleoPCA-cookbook   
+        repo: projectpythia/paleoPCA-cookbook   
 site:
   options:
     logo: notebooks/images/logos/pythia_logo-white-rtext.svg
     folders: true
-  template: book-theme
