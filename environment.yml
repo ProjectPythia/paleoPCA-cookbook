@@ -2,7 +2,7 @@ name: paleoPCA-Cookbook
 channels:
   - conda-forge
 dependencies:
-  - jupyter-book
+  - python<3.12
   - jupyterlab
   - jupyterlab-myst
   - pip
