@@ -1,9 +1,0 @@
-format: jb-book
-root: README
-parts:
-  - caption: Preamble
-    chapters:
-      - file: notebooks/how-to-cite
-  - caption: Model-Data Comparison
-    chapters:
-      - file: notebooks/paleoPCA

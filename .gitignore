@@ -141,3 +141,6 @@ dmypy.json
 notebooks/.virtual_documents/.DS_Store
 .virtual_documents/notebooks/paleoPCA.ipynb
 notebooks/.virtual_documents/.DS_Store
+
+# MyST build outputs
+_build
