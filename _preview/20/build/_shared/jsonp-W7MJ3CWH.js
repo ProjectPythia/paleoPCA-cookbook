@@ -1,0 +1,1 @@
+import{a}from"/paleoPCA-cookbook/_preview/20/build/_shared/chunk-FQLWQKN7.js";import"/paleoPCA-cookbook/_preview/20/build/_shared/chunk-R3ABELDT.js";import"/paleoPCA-cookbook/_preview/20/build/_shared/chunk-OZE3FFNP.js";export default a();
