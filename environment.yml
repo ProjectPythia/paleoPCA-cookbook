@@ -7,16 +7,16 @@ dependencies:
   - jupyterlab-myst
   - pip
   - pandas
-  - xarray
   - s3fs
   - fsspec
   - numpy
   - cartopy
   - matplotlib
-  - eofs
-  - nc-time-axis
-  - h5netcdf
   - pip:
     - pyleoclim
+    - xarray
+    - h5netcdf
+    - nc-time-axis
+    - eofs
   - mystmd
   
